@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text('Hello World!'),
+              Text('Hola mundo!'),
               OutlinedButton(onPressed: (){}, child: Text('Soy un botton'))
             ],
           ),
